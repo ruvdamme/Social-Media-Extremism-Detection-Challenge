@@ -1,0 +1,1 @@
+The Social Media Extremism Detection Challenge invites participants to develop machine learning models that distinguish potentially extremist content from regular social media posts. This competition is part of a Community Impact Initiative focused on machine learning for social awareness and social good.
